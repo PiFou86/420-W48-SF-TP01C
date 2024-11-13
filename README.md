@@ -4,7 +4,7 @@
 
 ### 1.1 - Déroulement du TP
 
-- Remise du travail: 21 novembre 2022, 23:59
+- Remise du travail: 24 novembre 2024, 23:59
 - Ce travail est réalisé en équipe de 2 personnes et seuls les membres de cette équipe y contribuent
 - Toutes les réponses fournies doivent être originales (produites par l’étudiant ou un membre de l’équipe)
 - Toute copie de code, de portion de code, d’algorithme ou de texte doit faire mention de sa source
@@ -74,19 +74,19 @@ Vous devez faire le travail en équipe de 2 personnes, au maximum. Le document d
 
 1. Document de présentation du projet : (Contexte : 15%, Circuit : 20%, Coût : 5% = 40%)
    - Contexte du projet
-   - Planification, attribution des tâches
+   - Planification, attribution des tâches, par tableau (voir étape 3.)
    - La forme pourra être un texte explicatif ou un schéma hiérarchique des différentes étapes du projet
    - Dessiner un schéma du circuit
    - Dessiner le montage (En utilisant des images des PCB et des lignes qui représentent les fils)
-   - Diagramme de classes
-   - Inventaire des pièces : estimation des coûts des pièces
-   - Estimation énergétique : durée de vie des batteries / consommation si sur secteur
    - Schéma technique avec explications
-
+  -  Diagramme de classes
+   - Inventaire des pièces : estimation du coût du projet, pièces, consommables, etc basé sur un tableau fictif (à votre imagination)
+   - Estimation énergétique : durée de vie des batteries / consommation si sur secteur
+     
 2. Vidéo de présentation (Présentation : 3%, Explication : 4%, Fonctionnement : 3% = 10%)
    - Projet
    - Circuit
-   - Feux / boutons
+   - DELs / boutons
    - Pièces
    - Les différents états / séquences
    - Statistiques
